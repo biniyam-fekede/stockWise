@@ -1,16 +1,14 @@
 Here is the Demo on youtube https://youtu.be/Q_cWvxIbufg 
 
 Finance Insight Dashboard 📈
-
 A full-stack personal stock insight dashboard that combines your Robinhood portfolio with AI-powered sentiment analysis on related news articles. Get real-time insights into your investments with beautiful visualizations and intelligent news filtering.
 
-Project Overview
+🌟 Project Overview
 This project consists of:
 
 Backend (FastAPI) - Fetches portfolio data from Robinhood, retrieves stock news from Finnhub, and analyzes sentiment using FinBERT
 Frontend (React + TypeScript) - Modern, responsive dashboard for visualizing portfolio and news insights
-
-Key Features
+🎯 Key Features
 Backend Features
 ✅ Robinhood Integration - Fetch real-time portfolio data, holdings, and performance
 ✅ Finnhub News API - Retrieve company-specific and market news
@@ -68,9 +66,7 @@ finance-insight/
     ├── vite.config.ts              # Vite configuration
     ├── tailwind.config.js          # Tailwind CSS config
     └── README.md                   # Frontend documentation
-
-Quick Start
-
+🚀 Quick Start
 Prerequisites
 Python 3.11+
 Node.js 18+
@@ -111,8 +107,7 @@ Start development server:
 npm run dev
 Frontend will be available at: http://localhost:3000
 
-API Endpoints
-
+📖 API Endpoints
 Portfolio
 GET /api/portfolio - Get complete portfolio data
 GET /api/portfolio/symbols - Get list of portfolio symbols
