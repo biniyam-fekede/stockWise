@@ -1,4 +1,7 @@
+Here is the Demo on youtube https://youtu.be/Q_cWvxIbufg 
+
 Finance Insight Dashboard 📈
+
 A full-stack personal stock insight dashboard that combines your Robinhood portfolio with AI-powered sentiment analysis on related news articles. Get real-time insights into your investments with beautiful visualizations and intelligent news filtering.
 
 Project Overview
