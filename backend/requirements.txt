@@ -1,0 +1,25 @@
+# Finance Insight Dashboard - Backend Dependencies
+
+# ===== Core Framework =====
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# ===== Robinhood Integration =====
+robin-stocks==3.0.5
+
+# ===== Machine Learning / NLP =====
+transformers==4.35.2
+torch==2.2.0
+sentencepiece==0.1.99
+
+# ===== HTTP Requests =====
+httpx==0.25.1
+requests==2.31.0
+
+# ===== Environment Variables =====
+python-dotenv==1.0.0
+
+# ===== Utilities =====
+python-multipart==0.0.6
